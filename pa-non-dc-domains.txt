@@ -1,2 +1,2 @@
-espn.com/
-instagram.com/
+*.espn.com/
+*.instagram.com/
